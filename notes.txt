@@ -1,0 +1,4 @@
+Crud app with pagination and search functionality 
+swr, react hook form, next js
+django rest framework 
+json server Port 5000
